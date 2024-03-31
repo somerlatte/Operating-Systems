@@ -4,22 +4,39 @@ DCC605: Sistemas Operacionais
 Trabalho Prático
 
 Cronograma e execução
+
 Paginador de memória
+
 Infraestrutura de memória
+
 Gerenciador de memória do usuário [uvm]
+
 Gerenciador de memória [mmu]
+
 Paginador de memória
+
 Paralelismo
+
 Determinismo
+
 Adiamento de trabalho
+
 Minimização de trabalho
+
 Política de reposição de páginas
+
 Implementação, entrega e avaliação
+
 Utilizando a infraestrutura de memória
+
 Implementação do paginador
+
 Bateria de testes
+
 Testes adicionais
+
 Relatório
+
 Pontos extras
 
 
